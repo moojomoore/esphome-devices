@@ -26,7 +26,7 @@ You must [remove the cover and use the serial header](https://www.adventurousway
 ```yaml
 # Basic Config
 esphome:
-  name: sonoff_s31
+  name: sonoff-s31
   platform: ESP8266
   board: esp01_1m
 
